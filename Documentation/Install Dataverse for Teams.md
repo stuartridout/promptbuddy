@@ -1,6 +1,6 @@
-# Import TeamLink as a managed solution into Dataverse for Teams environment 
+# Import Prompt Buddy as a managed solution into Dataverse for Teams environment 
 
-This document provides instructions on how to add the components of TeamLink app in a *Dataverse for Teams* environment as a managed solution.  
+This document provides instructions on how to add the components of Prompt Buddy app in a *Dataverse for Teams* environment as a managed solution.  
 
 You could also check the install demo video at https://www.youtube.com/watch?v=NEQ80rMY7-w 
 
@@ -14,12 +14,12 @@ You could also check the install demo video at https://www.youtube.com/watch?v=N
 
 ## Download the managed Solution file<a name="p1"></a>
 
-1. Browse to the **[Releases](https://github.com/stuartridout/teamlink/releases)** section of github repository 
+1. Browse to the **[Releases](https://github.com/stuartridout/promptbuddy/releases)** section of github repository 
 
    ![](./images/01.jpeg)
 
 
-1. Review the assets for latest release and download the ‘TeamLink\<Version>.zip’ file 
+1. Review the assets for latest release and download the ‘Prompt Buddy\<Version>.zip’ file 
 
    ![](images/02.jpeg)
 
