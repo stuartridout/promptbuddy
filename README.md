@@ -6,7 +6,11 @@ It's really easy to use and by giving your favourite prompts a thumbs up 👍 it
 
 ![Screenshot showing overview of the Prompt Buddy app](Documentation/images/promptbuddy.png)
 
-Prompt Buddy is a Teams application built on the Power Platform. Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application.
+Prompt Buddy is a Teams application built on the Power Platform. 
+
+It supports dark mode 🖤 and offers a mobile layout when using Teams on your phone📲. 
+
+Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application. 
 
 ## Installing
 
