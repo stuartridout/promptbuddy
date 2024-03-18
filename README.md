@@ -1,6 +1,6 @@
 ## Overview
 
-With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share their favourite AI prompts.  The app is preloaded with Microsoft Copilot categories but you can add your own if you've developed your own AI apps that people are using.
+With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share and discover their favourite AI prompts.  The app is preloaded with Microsoft Copilot categories but you can add your own if you've developed your own AI apps that people are using.
 
 It's really easy to use and by giving your favourite prompts a thumbs up 👍 it raises the most impactful prompts to the top of the leaderboard!
 
