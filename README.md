@@ -10,7 +10,7 @@ Prompt Buddy is a Teams application built on the Power Platform. Once installed,
 
 ## Installing
 
-Detailed documentation for installation can be found in the [Documents](https://github.com/stuartridout/promptbuddy/tree/main/Documentation) folder to install the app as an unmanaged solution in Microsoft Teams. 
+Video tutorial for installation can be found at [Installation Demo] (https://youtu.be/CsHNV1XcfNg) to install the app as an unmanaged solution in Microsoft Teams. 
 
 **_Recommended_: Install in Teams**
 
