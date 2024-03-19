@@ -1,5 +1,3 @@
-## UPDATE: We have removed the latest version of Prompt Buddy as we have found a bug.  New version coming very soon!
-
 ## Overview
 
 With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share and discover their favourite AI prompts.  The app is preloaded with Microsoft Copilot categories but you can add your own if you've developed your own AI apps that people are using.
