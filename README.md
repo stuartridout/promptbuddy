@@ -14,7 +14,7 @@ Once installed, it can be [customized and extended](https://docs.microsoft.com/e
 
 ## Installing
 
-Video tutorial for installation can be found at [Installation Demo](https://youtu.be/C4h-GIOqULw) to install the app as an unmanaged solution in Microsoft Teams. 
+Video tutorial for installation can be found at [Installation Demo](https://aka.ms/PromptBuddyVideo) to install the app as an unmanaged solution in Microsoft Teams. 
 
 **_Recommended_: Install in Teams**
 
