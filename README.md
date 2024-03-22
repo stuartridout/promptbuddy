@@ -4,11 +4,13 @@ With the Prompt Buddy app, you get a space in Microsoft Teams where your team (o
 
 It's really easy to use and by giving your favourite prompts a thumbs up 👍 it raises the most impactful prompts to the top of the leaderboard!
 
-![Screenshot showing overview of the Prompt Buddy app](Documentation/images/promptbuddy.png)
-
-Prompt Buddy is a Teams application built on the Power Platform. 
+![Screenshot showing overview of the Prompt Buddy app in Light mode with App category](Documentation/images/promptbuddy.png)
 
 It supports dark mode 🖤 and offers a mobile layout when using Teams on your phone📲. 
+
+![Screenshot showing overview of the Prompt Buddy app in Dark mode with Persona category](Documentation/images/PromptBuddy-DarkMode.png)
+
+Prompt Buddy is a Teams application built on the Power Platform. 
 
 Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application. 
 
