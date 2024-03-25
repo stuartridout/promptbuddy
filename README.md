@@ -26,6 +26,11 @@ If this is the first Power Apps in the team, a new Dataverse for Teams environme
 
 Note that this provisions the 'unmanaged' solution in the Teams environment. This means that you can take advantage of any future updates being made to the application by reinstalling the application (follow same steps as original installation).
 
+You'll find more information on features and adoption tips in the [Solution Overview](Documentation/images/Solution%20Overview%20-%20Prompt%20Buddy%20(Public%20version).pdf).
+
+Enjoy! 
+
+/Stuart & Erik
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
