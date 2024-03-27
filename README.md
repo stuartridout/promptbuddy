@@ -24,9 +24,19 @@ Video tutorial for installation can be found at [Installation Demo](https://aka.
 
 If this is the first Power Apps in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you pick. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by going to the Power Apps app.
 
-Note that this provisions the 'unmanaged' solution in the Teams environment. This means that you can take advantage of any future updates being made to the application by reinstalling the application (follow same steps as original installation).
+Note that this provisions the 'unmanaged' solution in the Teams environment. As noted below, this means that you can take advantage of any future updates being made to the application by reinstalling the application (follow same steps as original installation).
 
 You'll find more information on features and adoption tips in the [Solution Overview](Documentation/images/Solution%20Overview%20-%20Prompt%20Buddy%20(Public%20version).pdf).
+
+## Updating
+**Smooth Updates**
+
+If/When you import a new release of Prompt Buddy into the same environment, it updates any existing installation while keeping all your settings and prompts intact. Just follow the video again. Now that's smoooooth.
+
+Good to know: 
+
+New releases can contain new or improved sample prompts (view changelog for details). If you already imported sample prompts from a previous release, we recommend that you edit the JSON script to only include new ones to avoid duplicates.
+Should you happen to be reading this _after_ importing the same sample prompts twice (whoops), simply visit each category from the manager tab to delete any duplicates. 
 
 Enjoy! 
 
