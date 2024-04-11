@@ -38,6 +38,8 @@ Good to know:
 New releases can contain new or improved sample prompts (view changelog for details). If you already imported sample prompts from a previous release, we recommend that you edit the JSON script to only include new ones to avoid duplicates.
 Should you happen to be reading this _after_ importing the same sample prompts twice (whoops), simply visit each category from the manager tab to delete any duplicates. 
 
+###### _PS. If you're using Microsoft Copilot Lab and wonder how it works even better alongside Prompt Buddy - [See this answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)._
+
 Enjoy! 
 
 /Stuart & Erik
