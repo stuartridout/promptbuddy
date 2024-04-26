@@ -1,5 +1,5 @@
 ## <img align="right" width="140" height="120" src="Documentation/images/promptbuddy-logo.png"> Overview
-###### -Psst! Are you a Microsoft employee looking for the internal version of Prompt Buddy? Go here: https://aka.ms/PromptBuddy  
+##### Welcome To The Official Page of Prompt Buddy! 
 With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share and discover their favourite AI prompts.  The app is preloaded with Microsoft Copilot, and other categories, but you can add your own if you've developed your own AI apps that people are using.
 
 It's really easy to use and by giving your favourite prompts a ❤️, it raises the most impactful prompts to the top of the leaderboard!
@@ -38,11 +38,18 @@ Good to know:
 New releases can contain new or improved sample prompts (view changelog for details). If you already imported sample prompts from a previous release, we recommend that you edit the JSON script to only include new ones to avoid duplicates.
 Should you happen to be reading this _after_ importing the same sample prompts twice (whoops), simply visit each category from the manager tab to delete any duplicates. 
 
-###### _PS. If you're using Microsoft Copilot Lab and wonder how it works even better alongside Prompt Buddy - [See this answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)._
 
-Enjoy! 
 
-/Stuart & Erik
+## FAQ
+#### _"I use Microsoft Copilot Lab. Does it really work even better alongside Prompt Buddy?"_ - [Yes, it's Better Together! - View full answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)
+###### _"Simple link to share this page with a friend?"_ - [aka.ms/GetPromptBuddy](https://aka.ms/GetPromptBuddy)
+###### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy)
+
+**We hope you enjoy Prompt Buddy!**
+
+**/Stuart & Erik**
+
+
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
