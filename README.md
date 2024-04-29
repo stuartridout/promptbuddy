@@ -43,7 +43,7 @@ Should you happen to be reading this _after_ importing the same sample prompts t
 ## FAQ
 #### _"I use Microsoft Copilot Lab. Does it really work even better alongside Prompt Buddy?"_ - [Yes, it's Better Together! - View full answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)
 ###### _"Simple link to share this page with a friend?"_ - [aka.ms/GetPromptBuddy](https://aka.ms/GetPromptBuddy)
-###### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy)
+###### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy) _"-Ok, but how can I add it in Teams?"_ [aka.ms/PromptBuddy/Teams](https://aka.ms/PromptBuddy/Teams)
 
 **We hope you enjoy Prompt Buddy!**
 
