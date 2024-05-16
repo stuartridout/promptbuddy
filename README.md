@@ -1,5 +1,5 @@
 ## <img align="right" width="140" height="120" src="Documentation/images/promptbuddy-logo.png"> Overview
-##### Welcome To The Official Page of Prompt Buddy! 
+### Welcome to the official page of Prompt Buddy! 
 With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share and discover their favourite AI prompts.  The app is preloaded with Microsoft Copilot, and other categories, but you can add your own if you've developed your own AI apps that people are using.
 
 It's really easy to use and by giving your favourite prompts a ❤️, it raises the most impactful prompts to the top of the leaderboard!
