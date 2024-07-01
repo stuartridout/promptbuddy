@@ -1,5 +1,5 @@
 ## <img align="right" width="140" height="120" src="Documentation/images/promptbuddy-logo.png"> Overview
-### Welcome to the official page of Prompt Buddy! 
+### Welcome to the official page for Prompt Buddy! 
 With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share and discover their favourite AI prompts.  The app is preloaded with Microsoft Copilot, and other categories, but you can add your own if you've developed your own AI apps that people are using.
 
 It's really easy to use and by giving your favourite prompts a ❤️, it raises the most impactful prompts to the top of the leaderboard!
@@ -15,8 +15,10 @@ Prompt Buddy is a Teams application built on the Power Platform.
 Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application. 
 
 ## Installing
+It's easy! Just click the below link to view our short video tutorial for **Install (6 min) & Demo (8 min)** as an admin.
 
-Video tutorial for installation (15 min) can be found at [📺Installation Demo](https://aka.ms/PromptBuddyVideo) to install the app as an unmanaged solution in Microsoft Teams. 
+Follow the steps and Prompt Buddy installs as an unmanaged solution in your environment for Microsoft Teams.
+# [**▶️Video: Install (6 min) & Demo (8 min)📺**](https://aka.ms/PromptBuddyVideo)
 
 **_Recommended_: Install in Teams**
 
@@ -41,7 +43,7 @@ Should you happen to be reading this _after_ importing the same sample prompts t
 
 
 ## FAQ
-#### _"I use Microsoft Copilot Lab. Does it really work even better alongside Prompt Buddy?"_ - [Yes, it's Better Together! - View full answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)
+#### _"We use Microsoft Copilot Lab. Do we really need a Prompt Buddy?"_ - [Yes, they're Better Together! - View full answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)
 ###### _"Simple link to share this page with a friend?"_ - [aka.ms/GetPromptBuddy](https://aka.ms/GetPromptBuddy)
 ###### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy) _"-Ok, but how can I add it in Teams?"_ [aka.ms/PromptBuddy/Teams](https://aka.ms/PromptBuddy/Teams)
 
@@ -57,3 +59,5 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## <img align="right" width="420" height="360" src="Documentation/images/promptbuddy-logo.png">
