@@ -1,6 +1,6 @@
 ## <img align="right" width="140" height="120" src="Documentation/images/promptbuddy-logo.png"> Overview
 ### Welcome to the official page for Prompt Buddy! 
-With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share and discover their favourite AI prompts.  The app is preloaded with Microsoft Copilot, and other categories, but you can add your own if you've developed your own AI apps that people are using.
+With the Prompt Buddy app, you get a space in Microsoft Teams where your team (or even your entire organization) can share and discover their favourite AI prompts.  The app is preloaded with Microsoft Copilot, and other categories, but you can add your own if you've developed your own AI apps that people are using.
 
 It's really easy to use and by giving your favourite prompts a ❤️, it raises the most impactful prompts to the top of the leaderboard!
 
@@ -22,11 +22,11 @@ Follow the steps and Prompt Buddy installs as an unmanaged solution in your envi
 
 **_Recommended_: Install in Teams**
 
-**This is the easiest and quickest method to get started with this app template.** The provisioning is fully automated once the process starts and may take upto 2 - 3 minutes. You will get the option to chose which Teams team you'd like to install this application in. 
+**This is the easiest and quickest method to get started with this app template.** The provisioning is fully automated once the process starts and may take upto 2-3 minutes. You will get the option to chose which team in Teams you'd like to install this app in. 
 
-If this is the first Power Apps in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you pick. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by going to the Power Apps app.
+If this is the first Power App in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you select. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by opening to the Power Apps app in Teams.
 
-Note that this provisions the 'unmanaged' solution in the Teams environment. As noted below, this means that you can take advantage of any future updates being made to the application by reinstalling the application (follow same steps as original installation).
+Note that this provisions the 'unmanaged' solution in your Teams environment. As noted below, this means that you can take advantage of any future updates being made to the app by updating the application (follow same steps as original installation).
 
 You'll find more information on features and adoption tips in the [Solution Overview](Documentation/images/Solution%20Overview%20-%20Prompt%20Buddy%20(Public%20version).pdf).
 
