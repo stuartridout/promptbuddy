@@ -8,7 +8,7 @@ It's really easy to use and by giving your favourite prompts a ❤️, it raises
 
 It supports dark mode 🖤 and offers a mobile layout when using Teams on your phone📲. 
 
-![Screenshot showing overview of the Prompt Buddy app in Dark mode with Persona category](Documentation/images/PromptBuddy-DarkMode.png)
+![Screenshot showing overview of the Prompt Buddy app in Dark mode with Persona category](Documentation/images/PromptBuddy-DarkMode-Customize.png)
 
 Prompt Buddy is a Teams application built on the Power Platform. 
 
