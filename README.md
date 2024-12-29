@@ -30,6 +30,34 @@ Note that this provisions the 'unmanaged' solution in your Teams environment. As
 
 You'll find more information on features and adoption tips in the [Solution Overview](Documentation/images/Solution%20Overview%20-%20Prompt%20Buddy%20(Public%20version).pdf).
 
+
+
+***
+
+### Power BI Template
+
+To install the Power BI Template, make sure you have Power BI Desktop installed from the Microsoft Store.
+https://www.microsoft.com/store/productId/9NTXR16HNW1T
+
+Download and open the PBIT-file from here either by double clicking on it or open it from Power BI Desktop.
+You will be asked to enter a Dataverse URL
+
+<img src="Documentation/images/Prompt%20Buddy%20Report%20parameter.png" width="500">
+
+
+One way of finding this URL is to head over to the Power Automate Portal (make.powerautomate.com). From here, in the upper right corner, you can select environments. Select the environment where you have installed Prompt Buddy. This is usually the same name as the Team in which you have made the installation.
+
+<img src="Documentation/images/Prompt%20Buddy%20PowerAutomate%20Environments.png" width="300">
+
+
+A new page will open. Now select the settings cog wheel on the upper right corner then open "Session details". In this box you'll find the instance URL. Copy the value and paste it into the Power BI Template.
+
+<img src="Documentation/images/Prompt%20Buddy%20Session%20Details.png" width="600">
+
+
+
+
+
 ## Updating
 **Smooth Updates**
 
@@ -47,6 +75,7 @@ Should you happen to be reading this _after_ importing the same sample prompts t
 ###### _"Simple link to share this page with a friend?"_ - [aka.ms/GetPromptBuddy](https://aka.ms/GetPromptBuddy)
 ###### _"Can I share Prompt Buddy as an app in Teams for my entire organization?"_ - [Yes! Here's how](https://github.com/stuartridout/promptbuddy/issues/46#issue-2481273836)
 ###### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy) _"-Ok, but how can I add it in Teams?"_ [aka.ms/PromptBuddy/Teams](https://aka.ms/PromptBuddy/Teams)
+###### _"I want to know more about the POwer BI template and built it out further"_ - [[Go to Villes blog](https://www.villezekeviking.com/prompt-buddy-power-bi-template/)"
 
 **We hope you enjoy Prompt Buddy!**
 
