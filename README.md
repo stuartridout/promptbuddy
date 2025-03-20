@@ -46,9 +46,9 @@ Should you happen to be reading this _after_ importing the same sample prompts t
 #### _"If we use Prompt Buddy, do we need Microsoft Copilot Prompt Gallery (formerly Copilot lab)?"_ 
 [- Yes, they're Better Together! - View full answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)
 ###### _"Simple link to share this page with a friend?"_ - [aka.ms/GetPromptBuddy](https://aka.ms/GetPromptBuddy)
-###### _"Can I share Prompt Buddy as an app in Teams for my entire organization?"_ - [Yes! Here's how](https://github.com/stuartridout/promptbuddy/issues/46#issue-2481273836)
 ###### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy) _"-Ok, but how can I add it in Teams?"_ [aka.ms/PromptBuddy/Teams](https://aka.ms/PromptBuddy/Teams)
 ###### _"I want to know more about the upcoming Power BI report template for Prompt Buddy"_ - [Visit Ville's blog](https://www.villezekeviking.com/prompt-buddy-power-bi-template/)
+###### _"Can I share Prompt Buddy as an app in Teams for my entire organization?"_ - [Yes! Here's how](https://github.com/stuartridout/promptbuddy/issues/46#issue-2481273836)
 
 **We hope you enjoy Prompt Buddy!**
 
