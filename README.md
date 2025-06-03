@@ -41,14 +41,54 @@ New releases can contain new or improved sample prompts (view changelog for deta
 Should you happen to be reading this _after_ importing the same sample prompts twice (whoops), simply visit each category from the manager tab to delete any duplicates. 
 
 
+***
+
+## NEW! Business Value Report - A free Power BI Template for Prompt Buddy (optional add on)
+
+Want more stats and data on your internal prompts? 
+
+You also get a Business Value Calculator to show and project internal ROI and cost savings!
+
+
+![Business Value Report - Value Calculator section](Documentation/images/ValueCalculatorView.png)
+_This example shows cost savings of prompt sharing in € Euros based on very low usage (6%) and 1,000 employees with an avg. €33 hourly cost._
+_You can easily change all numbers to match your organization and switch between currencies like $ Dollars, £ Pounds, ¥ Yen etc._
+
+
+**Installing the Prompt Buddy Business Value Report** 
+
+_⚠️The Business Value Report requires Prompt Buddy to already be installed⚠️_
+
+All you need is Power BI Desktop (free) and your unique URL.
+1. Make sure you have [Power BI Desktop](https://apps.microsoft.com/detail/9NTXR16HNW1T?hl=en-us&gl=US&ocid=pdpshare) installed from the Microsoft Store.
+
+2. [Download the Prompt Buddy Report PBIT-file](https://github.com/stuartridout/promptbuddy/blob/main/Prompt%20Buddy%20Report%20(Power%20BI).pbit) then simply double click it or open it from Power BI Desktop.
+
+3. You will be asked to enter your unique Dataverse URL
+
+<img src="Documentation/images/Prompt%20Buddy%20Report%20parameter.png" width="500">
+
+One way of finding your URL is to head over to the [Power Automate Portal](https://make.powerautomate.com). From here, in the upper right corner, you can select environments. Select the environment where you have installed Prompt Buddy. This is usually the same name as the Team in which you have made the installation.
+
+<img src="Documentation/images/Prompt%20Buddy%20PowerAutomate%20Environments.png" width="300">
+
+
+A new page will open. Now select the settings cog wheel on the upper right corner then open "Session details". In this box you'll find the instance URL. Copy the value and paste it into the Power BI Template.
+
+<img src="Documentation/images/Prompt%20Buddy%20Session%20Details.png" width="600">
+
+Are you a Power BI wizard 🧙‍♂️? You can edit the report to your liking. Go to [Microsoft MVP Ville's blog](https://www.villezekeviking.com/prompt-buddy-power-bi-template/) to learn more.
+
 
 ## FAQ
-#### _"If we use Prompt Buddy, do we need Microsoft Copilot Prompt Gallery (formerly Copilot lab)?"_ 
-[- Yes, they're Better Together! - View full answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)
-###### _"Simple link to share this page with a friend?"_ - [aka.ms/GetPromptBuddy](https://aka.ms/GetPromptBuddy)
-###### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy) _"-Ok, but how can I add it in Teams?"_ [aka.ms/PromptBuddy/Teams](https://aka.ms/PromptBuddy/Teams)
-###### _"I want to know more about the upcoming Power BI report template for Prompt Buddy"_ - [Visit Ville's blog](https://www.villezekeviking.com/prompt-buddy-power-bi-template/)
-###### _"Can I share Prompt Buddy as an app in Teams for my entire organization?"_ - [Yes! Here's how](https://github.com/stuartridout/promptbuddy/issues/46#issue-2481273836)
+##### _"If we use Prompt Buddy, do we need Microsoft Copilot Prompt Gallery (formerly Copilot lab)?"_ [- Yes, they're Better Together! - View full answer](https://github.com/stuartridout/promptbuddy/issues/2#issuecomment-2034184541)
+##### _"Can I share Prompt Buddy as an app in Teams for my entire organization?"_ - [Yes! Here's how](https://github.com/stuartridout/promptbuddy/issues/46#issue-2481273836)
+##### _"I'm a Microsoft employee. Where can I access the internal version?"_ - [aka.ms/PromptBuddy](https://aka.ms/PromptBuddy) _"-Ok, but how can I add it in Teams?"_ [aka.ms/PromptBuddy/Teams](https://aka.ms/PromptBuddy/Teams)
+##### _"Simple link to share this page with a friend?"_ - [aka.ms/GetPromptBuddy](https://aka.ms/GetPromptBuddy)
+
+
+
+
 
 **We hope you enjoy Prompt Buddy!**
 
