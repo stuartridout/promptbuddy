@@ -64,16 +64,26 @@ All you need is Power BI Desktop (free) and your unique URL.
 
 2. [Download the Prompt Buddy Report PBIT-file](https://github.com/stuartridout/promptbuddy/blob/main/Prompt%20Buddy%20Report%20(Power%20BI).pbit) then simply double click it or open it from Power BI Desktop.
 
-3. You will be asked to enter your unique Dataverse URL
+3. You will be asked to enter your unique Dataverse URL. You must remove https:// and the final / for your URL to work.
 
 <img src="Documentation/images/Prompt%20Buddy%20Report%20parameter.png" width="500">
 
-One way of finding your URL is to head over to the [Power Automate Portal](https://make.powerautomate.com). From here, in the upper right corner, you can select environments. Select the environment where you have installed Prompt Buddy. This is usually the same name as the Team in which you have made the installation.
+How to find your unique Dataverse URL:
+
+**Option 1** - Go to [Environments in Power Platform Admin Center](https://admin.powerplatform.microsoft.com/manage/environments) - Hover over the environment where Prompt Buddy is installed to view the URL.
+
+Write it down or take a screenshot for Copilot to transcribe 😉
+<img width="1590" height="642" alt="image" src="https://github.com/user-attachments/assets/fa10ba70-f26c-49cb-a2af-968bc2b44d0b" />
+
+_**❗Important!** You must enter your URL into Power BI without https:// and the final / - Otherwise you will receive an error._
+
+**Option 2** - Head over to the [Power Automate Portal](https://make.powerautomate.com). From here, in the upper right corner, you can select environments. Select the environment where Prompt Buddy is installed. This is usually the same name as the Team in which you have made the installation.
 
 <img src="Documentation/images/Prompt%20Buddy%20PowerAutomate%20Environments.png" width="300">
 
-
 A new page will open. Now select the settings cog wheel on the upper right corner then open "Session details". In this box you'll find the instance URL. Copy the value and paste it into the Power BI Template.
+
+_**❗Important!** You must enter your URL into Power BI without https:// and the final / - Otherwise you will receive an error._
 
 <img src="Documentation/images/Prompt%20Buddy%20Session%20Details.png" width="600">
 
