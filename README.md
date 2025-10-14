@@ -75,7 +75,7 @@ How to find your unique Dataverse URL:
 Write it down or take a screenshot for Copilot to transcribe 😉
 <img width="1590" height="642" alt="image" src="https://github.com/user-attachments/assets/fa10ba70-f26c-49cb-a2af-968bc2b44d0b" />
 
-_**❗Important!** You must enter your URL into Power BI without https:// and the final / - Otherwise you will receive an error._
+_**❗Important!** You must enter your URL into Power BI without https:// and the final /, or you will receive an error._
 
 **Option 2** - Head over to the [Power Automate Portal](https://make.powerautomate.com). From here, in the upper right corner, you can select environments. Select the environment where Prompt Buddy is installed. This is usually the same name as the Team in which you have made the installation.
 
@@ -83,7 +83,7 @@ _**❗Important!** You must enter your URL into Power BI without https:// and th
 
 A new page will open. Now select the settings cog wheel on the upper right corner then open "Session details". In this box you'll find the instance URL. Copy the value and paste it into the Power BI Template.
 
-_**❗Important!** You must enter your URL into Power BI without https:// and the final / - Otherwise you will receive an error._
+_**❗Important!** You must enter your URL into Power BI without https:// and the final /, or you will receive an error._
 
 <img src="Documentation/images/Prompt%20Buddy%20Session%20Details.png" width="600">
 
